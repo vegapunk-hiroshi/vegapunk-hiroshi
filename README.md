@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm a software engineer specializing in the GIS domain.
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=vegapunk-hiroshi&show_icons=true&theme=radical)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vegapunk-hiroshi)
 
 <!--
 **vegapunk-hiroshi/vegapunk-hiroshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
